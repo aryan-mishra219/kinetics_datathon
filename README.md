@@ -31,11 +31,10 @@ Simply click the "Open in Colab" badge at the top of this file to run the notebo
 | F1-Score | 0.97 |
 | Training Time | 31.505 mins |
 
-> **Note:** Include a brief comment on the results or a screenshot of a performance graph here.
 
 ## 👤 Author
 
-**[Your Name]**
+**[ARYAN MISHRA]**
 * GitHub: [@aryan-mishhra219](https://github.com/aryan-mishra219)
 * LinkedIn: [Aryan Mishra](https://www.linkedin.com/in/aryan-mishra-43b615290/)
 
