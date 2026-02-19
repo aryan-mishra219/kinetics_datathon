@@ -36,9 +36,9 @@ Simply click the "Open in Colab" badge at the top of this file to run the notebo
 ## 👤 Author
 
 **[Your Name]**
-* GitHub: [@yourusername](https://github.com/aryan-mishra219)
-* LinkedIn: [Your Profile](https://www.linkedin.com/in/aryan-mishra-43b615290/)
+* GitHub: [@aryan-mishhra219](https://github.com/aryan-mishra219)
+* LinkedIn: [Aryan Mishra](https://www.linkedin.com/in/aryan-mishra-43b615290/)
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [Apache](LICENSE) file for details.
