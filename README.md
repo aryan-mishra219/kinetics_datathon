@@ -2,7 +2,7 @@
 
 A brief description of what this project does and who it's for. Provide a high-level overview of the problem you are solving or the model you have built.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_E_9npSkZYSvBcBtBVW9bUly-63C062o#scrollTo=S81hvNm3yqgl)
+[![Open In Colab](https://colab.research.google.com/drive/1_E_9npSkZYSvBcBtBVW9bUly-63C062o#scrollTo=S81hvNm3yqgl)
 [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🚀 Features
@@ -28,8 +28,8 @@ Simply click the "Open in Colab" badge at the top of this file to run the notebo
 | Metric | Value |
 | :--- | :--- |
 | Accuracy | 96.58% |
-| F1-Score | 0.94 |
-| Training Time | 15 mins |
+| F1-Score | 0.97 |
+| Training Time | 25.833 mins |
 
 > **Note:** Include a brief comment on the results or a screenshot of a performance graph here.
 
@@ -41,4 +41,4 @@ Simply click the "Open in Colab" badge at the top of this file to run the notebo
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [Apache](LICENSE) file for details.
+This project is licensed under the Apache License - see the [Apache](LICENSE) file for details.
