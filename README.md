@@ -2,7 +2,7 @@
 
 A brief description of what this project does and who it's for. Provide a high-level overview of the problem you are solving or the model you have built.
 
-[![Open In Colab](https://colab.research.google.com/drive/1_E_9npSkZYSvBcBtBVW9bUly-63C062o#scrollTo=S81hvNm3yqgl)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_E_9npSkZYSvBcBtBVW9bUly-63C062o#scrollTo=S81hvNm3yqgl)
 [![License: Apache](https://img.shields.io/badge/License-Apache-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 🚀 Features
