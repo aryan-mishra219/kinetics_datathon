@@ -29,7 +29,7 @@ Simply click the "Open in Colab" badge at the top of this file to run the notebo
 | :--- | :--- |
 | Accuracy | 96.58% |
 | F1-Score | 0.97 |
-| Training Time | 25.833 mins |
+| Training Time | 31.505 mins |
 
 > **Note:** Include a brief comment on the results or a screenshot of a performance graph here.
 
