@@ -19,13 +19,7 @@ A brief description of what this project does and who it's for. Provide a high-l
 
 ## 📋 Installation & Usage
 
-### 1. Clone the repository
-bash
-git clone https://github.com/username/project-name.git
-cd project-name
-
-
-### 2. Run on Colab
+### Run on Colab
 Simply click the "Open in Colab" badge at the top of this file to run the notebook interactively without any local setup.
 
 
